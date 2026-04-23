@@ -1,5 +1,5 @@
 
-![Processor Animation](Banner.jpeg)
+![Processor Animation]()
 
 
 <!-- BANNER -->
