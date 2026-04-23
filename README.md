@@ -4,7 +4,7 @@
 
 <!-- BANNER -->
 <p align="center">
-  <img src="Banner.jpeg" alt="Riyan K " />
+  <img src="Banner.gif" alt="Riyan K " />
 </p>
 
 <br/>
