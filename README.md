@@ -1,5 +1,4 @@
 
-![Processor Animation]()
 
 
 <!-- BANNER -->
